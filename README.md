@@ -1,9 +1,13 @@
 # Blog-with-react-query
 
 ## Features
+
 -> Blog Posts and comment load by useQuery
+
 -> comment delete and post update by useMutation
+
 -> Pagination
+
 -> Pagination prefetch
 
 

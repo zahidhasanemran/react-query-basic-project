@@ -14,3 +14,6 @@
 ## Server
 
 This app uses the [JSON Placeholder](https://jsonplaceholder.typicode.com/) server.
+
+## App Link
+https://react-query-basic-project.vercel.app/

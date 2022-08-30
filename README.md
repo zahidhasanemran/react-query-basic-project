@@ -1,14 +1,11 @@
-# Blog-em Ipsum
+# Blog-with-react-query
 
-### A React App for the Udemy course "React Query: Server State Management for React"
+## Features
+-> Blog Posts and comment load by useQuery
+-> comment delete and post update by useMutation
+-> Pagination
+-> Pagination prefetch
 
-## Installation
-
-Run `npm install`
-
-## Running the App
-
-Run `npm start`. The app will be found at [http://localhost:3000]
 
 ## Server
 
